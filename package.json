@@ -1,0 +1,22 @@
+{
+  "name": "construction",
+  "version": "1.1.1",
+  "description": "Construction v2 for Latest Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "^4.10.8",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Sundar Ghimire",
+  "license": "ISC"
+}
